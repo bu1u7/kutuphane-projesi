@@ -4,7 +4,7 @@ Bu proje, basit bir kütüphane yönetim sistemidir
 Terminal üzerinden kitap ekleyebilir, silebilir, listeleyebilir veya arayabilirsiniz.  
 Ayrıca FastAPI ile yazılmış bir web API’si de bulunmaktadır.
 
-## 🚀 Kurulum
+##  Kurulum
 
 Projeyi bilgisayarınıza klonlayın:
 
